@@ -43,13 +43,14 @@ Este repositório é dedicado à exploração da relação homem-máquina atrav�
 ## 📚 Materiais Utilizados
 
 ### 🎥 Vídeos e Ensaios Visuais
-* [The Philosophy of Ghost in the Shell](https://www.youtube.com/watch?v=mKwitYyH9jM)
-* [Cyberpunk 2077's Philosophy](https://www.youtube.com/watch?v=G_a9-UOnsTo)
-* [The Ethics of Detroit: Become Human](https://www.youtube.com/watch?v=IH-wBijX53M)
-* [Ergo Proxy: The Cogito Virus Explained](https://www.youtube.com/watch?v=UJuWTpAzuyc)
-* [Blade Runner and the Nature of Humanity](https://www.youtube.com/watch?v=ChjPU9wOEzg)
-* [Asimov's Laws and AI Safety](https://www.youtube.com/watch?v=ZTC4pF5CM3w)
-* [Edgerunners: A Critique of Capitalism](https://www.youtube.com/watch?v=PfGOGXIp0Jo)
+* [O Futuro mais Perturbador de Isaac Asimov | A ÚLTIMA PERGUNTA](https://www.youtube.com/watch?v=mKwitYyH9jM)
+* [When does Artificial Intelligence Become 'Human'? Video essay l Detroit l Talos Principle ](https://www.youtube.com/watch?v=G_a9-UOnsTo)
+* [O Verdadeiro Problema de Inteligências Artificiais](https://www.youtube.com/watch?v=IH-wBijX53M)
+* [O Problema do Controle](https://www.youtube.com/watch?v=UJuWTpAzuyc)
+* [A Origem do Cyberpunk: Um Futuro Baseado na Realidade | Futurices](https://www.youtube.com/watch?v=ChjPU9wOEzg)
+* [Serial Experiments Lain: o anime que vai EXPLODIR sua cabeça](https://www.youtube.com/watch?v=ZTC4pF5CM3w)
+* [O Trauma Coletivo da Internet e as profecias de Serial Experiments Lain](https://www.youtube.com/watch?v=PfGOGXIp0Jo)
+* [The Science and Philosophy of Psycho-Pass – Wisecrack Edition](https://www.youtube.com/watch?v=Y5L1L-oFP8c)
 
 ### 📝 Artigos e Leituras Acadêmicas
 * [How We Became Posthuman (Conclusion) - N. Katherine Hayles](http://thedigitalcommons.org/docs/hayles-posthuman-11-conclusion.pdf)
